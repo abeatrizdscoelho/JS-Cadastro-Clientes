@@ -14,7 +14,7 @@ A proposta é criar objetos para armazenar informações de **clientes, telefone
 <br>
 
 ## 📂 Estrutura do Projeto
-Cada cliente possui:
+Cada **cliente** possui:
 - Nome;
 - Telefone (com DDD e número);
 - Endereço (rua, número, cidade e estado).
